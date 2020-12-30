@@ -22,10 +22,23 @@ public class App {
 
         // Q: Why do I have to put a "f" after the decimal number at the end?
 
-        int current_year = 2020;
-        int birthyear = 1993;
-        int age = current_year - birthyear;
-        System.out.println(age);
+        // int current_year = 2020;
+        // int birthyear = 1993;
+        // int age = current_year - birthyear;
+        // System.out.println(age);
+
+
+        int sales_november = 1000000;
+        char buchstabe = 'k';
+        int customers = 50;
+        float average_spending = 250.50f;
+        float result_dos = sales_november / customers;
+        System.out.println(result_dos);
+        boolean eins = false;
+        System.out.println(eins);
+        System.out.println(buchstabe + " irgendwas spielen oder so");
+        String uebungsbeispielstring = "ich heisse " + "Elis Codes";
+        System.out.println(uebungsbeispielstring);
 
 
         
