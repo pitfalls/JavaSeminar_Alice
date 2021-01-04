@@ -19,7 +19,6 @@ public class Person {
         System.out.println(myself.forename); //wollte alles in einer Klammer schreiben, ging nicht. warum? zb so: System.out.println(myself.surname, myself.age, myself.postcode)
         System.out.println(Richard.forename);
         System.out.println(Alex.forename);
-        System.out.println("----------------------");
         System.out.println(myself.surname);
         System.out.println(Richard.surname);
         System.out.println(Alex.surname);
